@@ -1,4 +1,7 @@
 # Vent
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/vent.svg)](https://greenkeeper.io/)
+
 > DOM event delegation that actually works
 <img src=".github/vent.png" align="right" alt="Vent logo">
 
